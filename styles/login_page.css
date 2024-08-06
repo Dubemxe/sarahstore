@@ -15,74 +15,74 @@ h3 {
 
 .signup {
   background-color: rgb(19, 25, 33);
-  height: 600px;
-  margin-left: 280px;
-  padding-top: 15px;
+  height: 610px;
+  margin-left: 290px;
+  padding-top: 25px;
 }
 .txt1 {
   font-family: 'Roboto';
-  font-size: 30px;
+  font-size: 40px;
   font-weight: bold;
-  margin-left: 140px;
-  margin-top: 20px;
-  margin-bottom: 70px;
+  margin-left: 150px;
+  margin-top: 30px;
+  margin-bottom: 80px;
   color: rgb(238, 238, 54);
-  margin-top: 95px;
+  margin-top: 105px;
   text-shadow:  12px 12px 15px rgba(122, 120, 8, 0.192);
 }
 .txt4 {
   font-weight: bold;
-  font-size: 16px;
-  margin-left: 150px;
+  font-size: 26px;
+  margin-left: 160px;
   color: azure;
   font-family: 'Roboto';
-  margin-bottom: 10px;
-  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-top: 35px;
 }
 .googlebtn {
-  padding: 10px;
-  height: 35px;
-  width: 500px;
+  padding: 20px;
+  height: 45px;
+  width: 510px;
   color: rgb(3, 7, 3);
   background-color: rgba(34, 31, 240, 0.459);
   border: none;
-  margin-left: 60px;
+  margin-left: 70px;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 26px;
   cursor: pointer;
 }
 .txt2 {
   font-weight: bold;
-  font-size: 18px;
-  margin-left: 160px;
+  font-size: 28px;
+  margin-left: 170px;
   color: azure;
   font-family: sans-serif;
-  margin-bottom: 20px;
-  margin-top: 60px;
+  margin-bottom: 30px;
+  margin-top: 70px;
 }
 .data {
   color: rgb(241, 230, 230);
   display: flex;
   flex-direction: column;
-  row-gap: 7px;
-  margin-left: 12px;
+  row-gap: 17px;
+  margin-left: 22px;
   font-family: 'Lucida Sans';
   font-weight: bold;
 }
 .email_input {
-  width: 550px;
-  height: 30px;
+  width: 560px;
+  height: 40px;
   background-color: azure;
   border: none;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 
 }
 .password_input {
-  width: 550px;
-  height: 30px;
+  width: 560px;
+  height: 40px;
   background-color: azure;
   border: none;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 .check {
   display: flex;
@@ -91,24 +91,24 @@ h3 {
   font-family: 'Lucida Sans';
   font-weight: bold;
   color: rgb(241, 230, 230);
-  margin-left: 12px;
-  margin-bottom: 30px;
+  margin-left: 22px;
+  margin-bottom: 40px;
 }
 .d_box {
-  width: 20px;
-  height: 20px;
-  margin-top: 13px;
+  width: 30px;
+  height: 30px;
+  margin-top: 23px;
 }
 .butn {
-  padding: 10px;
-  height: 35px;
-  width: 500px;
+  padding: 20px;
+  height: 45px;
+  width: 510px;
   color: rgb(3, 3, 3);
   background-color: rgb(238, 238, 54);
   border: none;
-  margin-left: 45px;
+  margin-left: 55px;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 26px;
   cursor: pointer;
   box-shadow:  12px 12px 12px rgba(122, 120, 8, 0.1);
   transition: all 0.3s ease;
@@ -121,40 +121,24 @@ h3 {
 }
 .login {
    background-color: rgb(19, 25, 33);
-   width: 650px;
-   height: 80px;
-   padding-top: 15px;
+   width: 660px;
+   height: 90px;
+   padding-top: 25px;
    display: flex;
    flex-direction: row;
-   column-gap: 375px;
-   margin-left: 260px;
-   margin-top: 80px;
-   margin-bottom: 30px;
+   column-gap: 385px;
+   margin-left: 270px;
+   margin-top: 90px;
+   margin-bottom: 40px;
 }
 
 .login_link {
   color: rgb(14, 14, 248);
   cursor: pointer;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 28px;
 }
 .acc {
   color: rgba(255, 255, 255, 0.603);
-  margin-left: 12px;
-}
-.footer {
-  left: 0%;
-  right: 0%;
-  bottom: 0%;
-  height: 400px;
-  background-color: rgb(12, 7, 7);
-  margin: 0px;
-}
-.bottomline {
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 80px;
-  background-color: rgb(12, 7, 7);
-  margin-top: 0.5px;
+  margin-left: 22px;
 }
