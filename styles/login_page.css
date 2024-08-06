@@ -47,7 +47,7 @@ h3 {
   color: rgb(3, 7, 3);
   background-color: rgba(34, 31, 240, 0.459);
   border: none;
-  margin-left: 60px;
+  margin-left: 45px;
   font-weight: bold;
   font-size: 16px;
   cursor: pointer;
@@ -55,7 +55,7 @@ h3 {
 .txt2 {
   font-weight: bold;
   font-size: 18px;
-  margin-left: 160px;
+  margin-left: 140px;
   color: azure;
   font-family: sans-serif;
   margin-bottom: 20px;
