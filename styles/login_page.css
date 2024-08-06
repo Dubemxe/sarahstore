@@ -34,7 +34,7 @@ h3 {
 .txt4 {
   font-weight: bold;
   font-size: 16px;
-  margin-left: 150px;
+  margin-left: 120px;
   color: azure;
   font-family: 'Roboto';
   margin-bottom: 10px;
@@ -47,7 +47,7 @@ h3 {
   color: rgb(3, 7, 3);
   background-color: rgba(34, 31, 240, 0.459);
   border: none;
-  margin-left: 45px;
+  margin-left: 30px;
   font-weight: bold;
   font-size: 16px;
   cursor: pointer;
@@ -55,7 +55,7 @@ h3 {
 .txt2 {
   font-weight: bold;
   font-size: 18px;
-  margin-left: 140px;
+  margin-left: 160px;
   color: azure;
   font-family: sans-serif;
   margin-bottom: 20px;
