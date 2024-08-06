@@ -6,7 +6,7 @@
   bottom: 0;
   position: absolute;
   height: max-content;
-  padding-left: 100px;
+  padding-left: 70px;
 }
 
 h3 {
@@ -22,9 +22,9 @@ h3 {
 }
 .txt1 {
   font-family: 'Roboto';
-  font-size: 45px;
+  font-size: 35px;
   font-weight: bold;
-  margin-left: 80px;
+  margin-left: 60px;
   margin-top: 20px;
   margin-bottom: 70px;
   color: rgb(238, 238, 54);
@@ -42,8 +42,8 @@ h3 {
 }
 .googlebtn {
   padding: 10px;
-  height: 35px;
-  width: 500px;
+  height: 45px;
+  width: 550px;
   color: rgb(3, 7, 3);
   background-color: rgba(34, 31, 240, 0.459);
   border: none;
@@ -94,6 +94,7 @@ h3 {
   color: rgb(241, 230, 230);
   margin-left: 12px;
   margin-bottom: 30px;
+  font-size: 17px;
 }
 .d_box {
   width: 20px;
@@ -102,8 +103,8 @@ h3 {
 }
 .butn {
   padding: 10px;
-  height: 35px;
-  width: 500px;
+  height: 45px;
+  width: 550px;
   color: rgb(3, 3, 3);
   background-color: rgb(238, 238, 54);
   border: none;
