@@ -6,7 +6,7 @@
   bottom: 0;
   position: absolute;
   height: max-content;
-  padding-left: 150px;
+  padding-left: 100px;
 }
 
 h3 {
@@ -33,7 +33,7 @@ h3 {
 }
 .txt4 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   margin-left: 150px;
   color: azure;
   font-family: 'Roboto';
