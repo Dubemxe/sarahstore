@@ -6,6 +6,7 @@
   bottom: 0;
   position: absolute;
   height: max-content;
+  padding-left: 150px;
 }
 
 h3 {
@@ -21,7 +22,7 @@ h3 {
 }
 .txt1 {
   font-family: 'Roboto';
-  font-size: 30px;
+  font-size: 45px;
   font-weight: bold;
   margin-left: 140px;
   margin-top: 20px;
@@ -32,7 +33,7 @@ h3 {
 }
 .txt4 {
   font-weight: bold;
-  font-size: 16px;
+  font-size: 20px;
   margin-left: 150px;
   color: azure;
   font-family: 'Roboto';
@@ -48,12 +49,12 @@ h3 {
   border: none;
   margin-left: 60px;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 20px;
   cursor: pointer;
 }
 .txt2 {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 23px;
   margin-left: 160px;
   color: azure;
   font-family: sans-serif;
