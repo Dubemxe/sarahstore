@@ -9,7 +9,7 @@ html, body {
   height: 100%;
 }
 .center {
-  margin-left: 455px;
+  margin-left: 400px;
   padding-top: 95px;
   display: flex;
   flex-direction: column;
@@ -36,7 +36,7 @@ html, body {
 }
 #email_input {
   width: 700px;
-  height: 35px;
+  height: 42px;
   background-color: rgba(240, 255, 255, 0.76);
   border: none;
   border-radius: 7px;
@@ -44,7 +44,7 @@ html, body {
 }
 #password_input {
   width: 700px;
-  height: 35px;
+  height: 42px;
   background-color: rgba(240, 255, 255, 0.76);
   border: none;
   border-radius: 7px;
@@ -71,7 +71,7 @@ html, body {
 }
 .b_signup {
   width: 180px;
-  height: 40px;
+  height: 45px;
   font-weight: bold;
   font-family: 'Roboto';
   background-color: rgba(238, 238, 54, 0.815);
