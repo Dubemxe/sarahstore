@@ -147,3 +147,7 @@
   width: 26px;
   text-align: center;
 }
+.store_logo {
+  color: rgb(238, 238, 54);
+  font-weight: bold;
+}
